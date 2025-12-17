@@ -1,4 +1,5 @@
-## Hi there 👋
+<img src="https://raw.githubusercontent.com/your-username/your-username/main/image.png](https://blog.codeitbro.com/wp-content/uploads/2025/08/git-push-force-problem-solved-meme.jpg" width="200" />
+
 
 <!--
 **muraliimg/muraliimg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
