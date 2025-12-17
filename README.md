@@ -1,4 +1,4 @@
-<img src="https://www.meme-arsenal.com/memes/ac67258468251b7ca64246d03af85155.jpg" width="200" />
+<img src="https://miro.medium.com/v2/resize:fit:740/1*KoAn0px8UQylILtVdP0iKA.png" width="200" />
 
 
 <!--
