@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/your-username/your-username/main/image.png](https://blog.codeitbro.com/wp-content/uploads/2025/08/git-push-force-problem-solved-meme.jpg" width="200" />
+<img src="https://www.meme-arsenal.com/memes/ac67258468251b7ca64246d03af85155.jpg" width="200" />
 
 
 <!--
